@@ -1,0 +1,5 @@
+{
+  "name": "Dr Afsan's Dental Aesthetics",
+  "description": "Premium dental clinic in Goa offering Root Canal, Implants, Invisalign, and Smile Design. 5-star rated, open 7 days a week.",
+  "requestFramePermissions": ["geolocation"]
+}
